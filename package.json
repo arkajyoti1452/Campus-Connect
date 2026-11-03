@@ -1,0 +1,19 @@
+{
+  "name": "campus-connect",
+  "version": "2.0.0",
+  "description": "CampusConnect - Integrated Campus Event Platform with Backend REST API",
+  "main": "index.html",
+  "scripts": {
+    "start": "node mockServer.js",
+    "mock-api": "node mockServer.js",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "campus-connect",
+    "rest-api",
+    "ui-ux",
+    "event-management"
+  ],
+  "author": "",
+  "license": "MIT"
+}
